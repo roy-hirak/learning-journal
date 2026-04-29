@@ -1,0 +1,14 @@
+body{
+    background-image: url(/imgs/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#container{
+    border: 2px solid;
+
+}
+#container + p{
+    background-color: yellow;
+}

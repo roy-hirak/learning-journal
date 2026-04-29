@@ -1,0 +1,50 @@
+
+@font-face{
+ src: url(month1.html/fonts/CormorantGaramond-VariableFont_wght.ttf);
+ font-family: CormorantGaramond;
+}
+@font-face {
+    font-family: Roboto;
+    src: url(month1.html/fonts/Roboto-VariableFont_wdth,wght.ttf);
+}
+
+h1{
+    font-family: roboto;
+    font-size: 1em
+}
+p{
+    font-family: CormorantGaramond;
+    font-size: 1em;
+}
+h1{
+     border: dotted rgb(84, 80, 211)
+     2px;
+    border-radius: 10px;
+}
+h1{
+    text-shadow: 3px 2px 2px rgb(241, 122, 122);
+}
+
+body{
+    margin: 10px
+}
+#box1{
+
+    border: 5px;
+    border-style: solid;
+    font-size: 5em;
+   display: inline;
+   visibility: hidden;
+}
+
+#p1{
+    border:6px solid blue;
+    height: 50px;
+    border-radius: 20px;
+    overflow: auto;
+}
+
+
+
+
+
