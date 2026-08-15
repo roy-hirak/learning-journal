@@ -1,0 +1,27 @@
+#container{
+   text-align: center ;
+   font-size: 2rem;
+   font-weight: bold;
+}
+#noOfDice{
+    font-size: 1.5em;
+    width: 20%;
+    text-align: center;
+    font-weight: bold;
+}
+#rollBtn{
+    font-size: 1.1em;
+    background-color: blue;
+    border : none;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 15px;
+
+}
+#rollBtn:hover{
+    background-color: hsl(240, 73%, 71%);
+    animation-delay: 250ms;
+}
+#rollBtn:active{
+    background-color: hsl(240, 40%, 79%);
+}
